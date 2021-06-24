@@ -1,24 +1,25 @@
-﻿# Project Name/Title Goes Here
+﻿# Phone Appilication Controlled Robotic Arm
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Abdulrahman Naveed | Lynbrook High School |  Engineering | Incoming Junior |
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+
+
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )]( "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+My second milestone was creating the code and the design of my android app as well as getting the bluetooth to work with the ESP32. For the application, I worked on the MIT App Developer and designed the outline for the app. THe app contains four slides to control the four servo motors on the robotic arm. It also contains a connect and disconnect button to link the bluetooth from the ESP32 to the 
+
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)]( "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
-  
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was learning the basics about the Arduino, the Arduino IDE, as well as the connecting the servo motors. After I got the basics done, I finihed duiilding the physical components for the Robotic Arm and connected the servos to the arduino.During the process of building the robotic arm, I did not run into a lot of difficualties, however, when I was wiring the servos onto the breadboard, I short-circuited the arduino. After a lot of trial and error, I was finally able yo wire and connect them correctly to the arduino. In addition, I also added an HC-SR04 sensor onto the robotic arm such that it can detects objects that are a certian distance away from it and then pick it up.   
 
 [![First Milestone]( https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PHHgylYHB78 "First Milestone"){:target="_blank" rel="noopener"}
