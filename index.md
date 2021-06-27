@@ -18,7 +18,7 @@ This will serve as a brief description of your project. Limit this to three sent
 My second milestone was creating the code and the design of my android app as well as getting the bluetooth to work with the ESP32. For the application, I worked on the MIT App Developer and designed the outline for the app. The app contains four slides to control the four servo motors on the robotic arm. It also contains a connect and disconnect button to link the bluetooth from the ESP32 to the application. In addition, it also contains a RUN and RESET button. THe RUN buttons starts the process of moving the servo motors, and the RESET button moves the servos back to their origional poistion. In order to connect the ESP32, the first I had to do was to download an external VCP Driver so that my ESP32 would connect to the Andriod IDE. After I got it to work, I then downloaded the ESP32 servo library onto the Arduino IDE which I can now use to send the signals from the ESP32 to the Robotic Arm. 
 
 
-![MIT App Developer Design]("https://user-images.githubusercontent.com/86128712/123556813-49bf0180-d742-11eb-8299-92dc561a0877.png">)
+![MIT App Developer Design](file:///Users/abdulrahmannaveed/Desktop/Screenshot_20210627-120324.png)
 
 
 [![Second Milestone]()]( "Second Milestone"){:target="_blank" rel="noopener"}
