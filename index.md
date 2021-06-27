@@ -22,6 +22,7 @@ My second milestone was creating the code and the design of my android app as we
 
 
 [![Second Milestone]()]( "Second Milestone"){:target="_blank" rel="noopener"}
+
 # First Milestone
 
 My first milestone was learning the basics about the Arduino, the Arduino IDE, as well as the connecting the servo motors. After I got the basics done, I finihed duiilding the physical components for the Robotic Arm and connected the servos to the arduino.During the process of building the robotic arm, I did not run into a lot of difficualties, however, when I was wiring the servos onto the breadboard, I short-circuited the arduino. After a lot of trial and error, I was finally able yo wire and connect them correctly to the arduino. In addition, I also added an HC-SR04 sensor onto the robotic arm such that it can detects objects that are a certian distance away from it and then pick it up.   
