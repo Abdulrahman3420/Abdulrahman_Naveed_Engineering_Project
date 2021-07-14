@@ -1,4 +1,4 @@
-﻿# Phone Appilication Controlled Robotic Arm
+﻿# Phone Application Controlled Robotic Arm
 This project is the Phone Controlled Robotic Arm which is controlled through an android application made on the MIT App Inventor.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
