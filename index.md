@@ -10,6 +10,8 @@ This project is the phone controlled robotic arm which consists of a an android 
   
 # Final Milestone
 
+[![Milestone3](https://res.cloudinary.com/marcomontalbano/image/upload/v1626241574/video_to_markdown/images/youtube--H8Z_oucKwi8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/H8Z_oucKwi8 "Milestone3")
+
 My final milestone was adding finishing touches to my android application, adding the HC-SR04 sensor as a modification, and fixing any bugs that I. encountered as I was finishing my project. For my application, I made sure that all of the slides were working correctly and were corresponiding to their respective servo motors. In addition, I made sure the bluetooth connection consistently worked correctly between my application and the ESP32 by fixing the circuit wiring as well as bugs on the code itself. Although I added the HC-SR04 sensor before, I made modifiction where it would work seamlesslely with the application and control the robotic arm using the code. Some challenges that I faced while completing my project was that my ultrasonic sensor was not working correctly when I connected it to the ESP32 but it was working when I connected it to the Arduino Uno board. When I connected it to the ESP32 it was not printing the correct distance values. In order to fix this, I went to the code and realized that I had to change some parts and libraries of the code because it was not exactly the same for both the ESP32 and the Arduino Uno board. After I tried this I was able to solve the problem.
 
 
