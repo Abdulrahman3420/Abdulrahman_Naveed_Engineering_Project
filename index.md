@@ -23,7 +23,6 @@ My second milestone was creating the code and the design of my android app as we
 
 ![MIT App Developer Design]<img width="1280" alt="Screen Shot 2021-06-27 at 12 02 17 PM" src="https://user-images.githubusercontent.com/86128712/125555403-42919ea2-8cc8-4965-a0a4-f29955a83c1b.png">
 
-[![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626241940/video_to_markdown/images/youtube--dsRG7XeRAvc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dsRG7XeRAvc "Milestone2")
 
 # First Milestone
 
