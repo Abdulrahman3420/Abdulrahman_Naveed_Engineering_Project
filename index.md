@@ -6,7 +6,8 @@ This project is the phone controlled robotic arm which consists of a an android 
 | Abdulrahman Naveed | Lynbrook High School |  Engineering | Incoming Junior |
 
 
-![51ZKrvpOYPL _AC_](https://user-images.githubusercontent.com/86128712/125549916-4b7ece2d-1b52-4384-a593-e61b0abe1878.jpg)
+![51ZKrvpOYPL _AC_](https://user-images.githubusercontent.com/86128712/125549916-4b7ece2d-1b<img width="1280" alt="Screen Shot 2021-06-27 at 12 02 17 PM" src="https://user-images.githubusercontent.com/86128712/125555403-42919ea2-8cc8-4965-a0a4-f29955a83c1b.png">
+52-4384-a593-e61b0abe1878.jpg)
   
 # Final Milestone
 
