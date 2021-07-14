@@ -19,13 +19,11 @@ My final milestone was adding finishing touches to my android application, addin
 
 # Second Milestone
 
-My second milestone was creating the code and the design of my android app as well as getting the bluetooth to work with the ESP32. For the application, I worked on the MIT App Developer and designed the outline for the app. The app contains four slides to control the four servo motors on the robotic arm. It also contains a connect and disconnect button to link the bluetooth from the ESP32 to the application. In addition, it also contains a RUN and RESET button. THe RUN buttons starts the process of moving the servo motors, and the RESET button moves the servos back to their origional poistion. In order to connect the ESP32, the first I had to do was to download an external VCP Driver so that my ESP32 would connect to the Andriod IDE. After I got it to work, I then downloaded the ESP32 servo library onto the Arduino IDE which I can now use to send the signals from the ESP32 to the Robotic Arm. 
-p
+My second milestone was creating the code and the design of my android app as well as getting the bluetooth to work with the ESP32. For the application, I worked on the MIT App Developer and designed the outline for the app. The app contains four slides to control the four servo motors on the robotic arm. It also contains a connect and disconnect button to link the bluetooth from the ESP32 to the application. In addition, it also contains a RUN and RESET button. THe RUN buttons starts the process of moving the servo motors, and the RESET button moves the servos back to their origional poistion. In order to connect the ESP32, the first I had to do was to download an external VCP Driver so that my ESP32 would connect to the Andriod IDE. After I got it to work, I then downloaded the ESP32 servo library onto the Arduino IDE which I can now use to send the signals from the ESP32 to the Robotic Arm.
 
 ![MIT App Developer Design]<img width="1280" alt="Screen Shot 2021-06-27 at 12 02 17 PM" src="https://user-images.githubusercontent.com/86128712/125555403-42919ea2-8cc8-4965-a0a4-f29955a83c1b.png">
 
-
-[![Second Milestone]()]( "Second Milestone"){:target="_blank" rel="noopener"}
+[![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626241940/video_to_markdown/images/youtube--dsRG7XeRAvc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dsRG7XeRAvc "Milestone2")
 
 # First Milestone
 
