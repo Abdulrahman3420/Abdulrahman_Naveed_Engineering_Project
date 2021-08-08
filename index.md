@@ -3,7 +3,7 @@ This project is the Phone Controlled Robotic Arm which is controlled through an 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Abdulrahman Naveed | Lynbrook High School |  Engineering | Incoming Junior |
+| Abdulrahman Naveed | Lynbrook High School |  Engineering | Junior |
 
 
 ![51ZKrvpOYPL _AC_](https://user-images.githubusercontent.com/86128712/125549916-4b7ece2d-1b52-4384-a593-e61b0abe1878.jpg)
